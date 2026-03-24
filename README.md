@@ -12,6 +12,7 @@
   <path d="M0,140 C200,180 600,100 800,150 L800,180 L0,180 Z" fill="rgba(0,0,0,0.15)"/>
   <text x="400" y="90" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Inês Cadete</text>
   <br/>
+  <br/>
   <text x="400" y="125" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.88)" text-anchor="middle" letter-spacing="3">JUNIOR DEVELOPER &amp; DESIGNER</text>
 </svg>
 </div>
