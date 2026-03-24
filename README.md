@@ -22,6 +22,7 @@
 <!-- ABOUT ME -->
 ✦   about me   ✦
   <br/>
+  <br/>
 🎨  Designer turned Developer — Currently at Northcoders JavaScript Bootcamp
    <br/>
 🌍  Based in London  |  Originally from Lisbon
@@ -38,6 +39,7 @@
 <div align="center">
 ✦   languages & tools   ✦
 <br/>
+  <br/>
 <!-- TECH ICONS -->
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,postgres,jest,figma,git,github,netlify,cloudflare,swift,ps,ai,ae,pr,blender&theme=light&perline=8" />
 <br/><br/>
@@ -46,6 +48,7 @@
 <br/>
 <div align="center">
 ✦   featured projects   ✦
+  <br/>
   <br/>
 SpillR Coming soonJS · React Native · Node📰  · WebSocket 
   <br/>
