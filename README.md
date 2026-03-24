@@ -58,7 +58,7 @@ NC NewsFull-stack news platformJS · PSQL · React🗺️
 ✦   find me   ✦
 <br/>
 <!-- LINKEDIN BUTTON -->
-<a href="https://www.linkedin.com/in/inesmcadete" target="_blank">
+<a href="www.linkedin.com/in/ines-mota-c" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Inês%20Cadete-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
