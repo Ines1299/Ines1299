@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <text x="400" y="125" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.88)" text-anchor="middle" letter-spacing="3">JUNIOR DEVELOPER &amp; DESIGNER</text>
-</svg>
+
 </div>
 <br/>
 <div align="center">
@@ -51,7 +51,7 @@ NC News Full-stack news platform JS · PSQL · React
 ✦   find me   ✦
 <br/>
 
-<a href="www.linkedin.com/in/ines-mota-c" target="_blank">
+<a href="https://www.linkedin.com/in/ines-mota-c" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Inês%20Cadete-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
